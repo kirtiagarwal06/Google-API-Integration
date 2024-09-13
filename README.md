@@ -123,10 +123,6 @@ To run tests:npm test
 # Contact
 For any questions or issues, feel free to reach out at kirtiagarwal.ka54@gmail.com
 
-# This README provides a clear and comprehensive overview of the project and all the necessary steps to set it up, run it, and contribute. Be sure to replace placeholders (e.g., your-username, your-email@example.com) with actual details.
-
-
-
 
 
 
